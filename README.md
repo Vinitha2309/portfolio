@@ -140,10 +140,5 @@ vinitha-portfolio/
 
 ---
 
-## 📄 License
 
-This project is open-source under the **MIT License**.
 
----
-
-💡 *If you like this portfolio, feel free to fork and customize it!*
