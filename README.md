@@ -5,12 +5,6 @@ This is a modern, interactive, and visually engaging portfolio designed to showc
 
 ---
 
-## ✨ Live Website
-
-👉 https://vinitha-dev.github.io *(add after deployment)*
-
----
-
 ## 💎 Features
 
 * 🎨 Colorful gradient UI with modern design
