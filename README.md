@@ -119,15 +119,6 @@ vinitha-portfolio/
    Settings → Pages → main branch → Save
    ```
 
-4. Your site will be live 🎉
-
----
-
-## 📧 Contact
-
-* 📩 Email: [vinitha.dev@example.com](mailto:vinitha.dev@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/vinitha-dev
-* 💻 GitHub: https://github.com/vinitha-dev
 
 ---
 
